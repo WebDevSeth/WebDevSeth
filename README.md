@@ -1,11 +1,11 @@
 <img align="right" width="400" height="400" src="https://ouch-cdn2.icons8.com/hV6MOILIFBtGRcj4n2WyWlvVlKAx9gJFGcgjMy5eCrg/rs:fit:1216:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDc3/L2UyMTMwZGI2LWM1/NjEtNDMzMC04MDYw/LWFmNzQ3NDVmNzkw/Yi5zdmc.png">
 
 
-# Hi, I'm Seth! 
+# Hi, I'm Seth! :man_technologist:
 
-Full-Stack | Software engineer :robot:. (In progress)
+Front-end | :robot: (In progress)
 
-Holberton School Student. :man_technologist:
+
 
 ## About me 
 
@@ -23,5 +23,3 @@ Holberton School Student. :man_technologist:
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/alejandro-ramirez-ciceros/)
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/FatChicken277)
 
----
-⭐️ From [FatChicken277](https://github.com/FatChicken277)
