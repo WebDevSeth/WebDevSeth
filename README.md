@@ -3,17 +3,17 @@
 
 # Hi, I'm Seth! :man_technologist:
 
-Front-end | :robot: (In progress)
+Aspiring Front-end developer :robot: 
 
 
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Gaming | :black_heart: Hip-Hop | :blue_heart: Programming
 
-- :earth_americas: I'm from Medellin - Colombia
+- :earth_americas: I'm from Cape Town - South Africa
 - :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :gem: Everyday is a good day
 
 
 ## Social media :mailbox_with_no_mail:
