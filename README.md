@@ -1,7 +1,7 @@
-<img align="right" width="400" height="400" src="https://ouch-cdn2.icons8.com/IUhDpxyiSPGRWTbM6XvtG3MaLqlP739LTguM3D9v_ZI/rs:fit:1216:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvOTUx/LzNjNWQzMzFmLThh/ZTktNDY2NC1hYTg5/LWFmODY2NDE0ZTZh/NC5zdmc.png">
+<img align="right" width="400" height="400" src="https://ouch-cdn2.icons8.com/hV6MOILIFBtGRcj4n2WyWlvVlKAx9gJFGcgjMy5eCrg/rs:fit:1216:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDc3/L2UyMTMwZGI2LWM1/NjEtNDMzMC04MDYw/LWFmNzQ3NDVmNzkw/Yi5zdmc.png">
 
 
-# Hi, I'm Alejandro :chicken:
+# Hi, I'm Seth! 
 
 Full-Stack | Software engineer :robot:. (In progress)
 
