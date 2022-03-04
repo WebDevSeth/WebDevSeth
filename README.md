@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://ouch-cdn2.icons8.com/hV6MOILIFBtGRcj4n2WyWlvVlKAx9gJFGcgjMy5eCrg/rs:fit:1216:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDc3/L2UyMTMwZGI2LWM1/NjEtNDMzMC04MDYw/LWFmNzQ3NDVmNzkw/Yi5zdmc.png">
+<img align="right" width="400" height="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FZVik7pBtu9dNS%2Fgiphy.gif&f=1&nofb=1">
 
 
 # Hi, I'm Seth! :man_technologist:
