@@ -13,7 +13,7 @@ Aspiring Front-end developer :robot:
 
 - :earth_americas: I'm from Cape Town - South Africa
 - :video_game: I like to play video games
-- :gem: Everyday is a good day
+- :gem: Every day is a good day
 
 
 ## Social media :mailbox_with_no_mail:
