@@ -9,7 +9,7 @@ Aspiring Front-end developer :robot:
 
 ## About me 
 
-:heart: WEB DESIGN | :black_heart: RESPONSIVE | :blue_heart: UNIQUE
+:heart: WEB DESIGN | :black_heart: RESPONSIVENESS | :blue_heart: UNIQUE
 
 - :earth_americas: I'm from Cape Town - South Africa
 - :video_game: I like to play video games
