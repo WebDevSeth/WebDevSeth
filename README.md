@@ -3,7 +3,7 @@
 
 # Hi, I'm Seth! :man_technologist:
 
-Aspiring Front-end developer :robot: 
+JUNIOR FULLSTACK :robot: 
 
 
 
