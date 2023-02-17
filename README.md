@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="">
+<img align="right" width="400" height="400" src="https://bestanimations.com/media/coins/781167865gold-coins-animated-gif.gif">
 
 
 # Hi, I'm Seth! :man_technologist:
