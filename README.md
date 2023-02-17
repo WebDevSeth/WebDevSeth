@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://bestanimations.com/media/coins/781167865gold-coins-animated-gif.gif">
 
 
-# Hi, I'm Seth! :man_technologist:
+# Hi, I'm Seth Kleynhans.
 
 JUNIOR FULLSTACK :robot: 
 
@@ -9,11 +9,11 @@ JUNIOR FULLSTACK :robot:
 
 ## About me 
 
-:heart: WEB DESIGN | :black_heart: RESPONSIVENESS | :blue_heart: UNIQUE
+:heart: RESPONSIVE WEB DESIGN | :black_heart: TECH | :blue_heart: UNIQUE
 
-- :earth_americas: I'm from Cape Town - South Africa
-- :video_game: I like to play video games
-- :gem: Every day is a good day
+- :earth_americas: Cape Town - South Africa
+- :video_game: Video games
+- 💎
 
 
 ## Social media :mailbox_with_no_mail:
