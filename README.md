@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FZVik7pBtu9dNS%2Fgiphy.gif&f=1&nofb=1](https://gifimage.net/wp-content/uploads/2018/11/gif-futuristic-3.gif)">
+<img align="right" width="400" height="400" src="">
 
 
 # Hi, I'm Seth! :man_technologist:
