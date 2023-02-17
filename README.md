@@ -1,11 +1,8 @@
 <img align="right" width="400" height="400" src="https://bestanimations.com/media/coins/781167865gold-coins-animated-gif.gif">
 
-
 # Hi, I'm Seth Kleynhans.
 
 JUNIOR FULLSTACK :robot: 
-
-
 
 ## About me 
 
@@ -13,8 +10,6 @@ JUNIOR FULLSTACK :robot:
 
 - :earth_americas: Cape Town - South Africa
 - :video_game: Video games
-- 💎
-
 
 ## Social media :mailbox_with_no_mail:
 
