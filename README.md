@@ -2,8 +2,6 @@
 
 # Hi, I'm Seth Kleynhans.
 
-JUNIOR FULLSTACK :robot: 
-
 ## About me 
 
 :heart: RESPONSIVE WEB DESIGN | :black_heart: TECH | :blue_heart: UNIQUE
