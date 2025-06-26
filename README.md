@@ -4,10 +4,10 @@
 
 ## About me 
 
-:heart: RESPONSIVE WEB DESIGN | :black_heart: TECH | :blue_heart: UNIQUE
+:heart: Founder, Serial Entreprenuer, Developer, Ai Guru
 
 - :earth_americas: Cape Town - South Africa
-- :video_game: Video games
+
 
 ## Social media :mailbox_with_no_mail:
 
